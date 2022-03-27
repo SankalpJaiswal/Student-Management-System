@@ -1,0 +1,18 @@
+table,td,th{
+    border: 1px solid brown;
+}
+
+table{
+    border-collapse: collapse;
+    width: 80%;
+    margin: auto;
+    margin-top: 50px;
+}
+
+th,td{
+    padding: 15px;
+}
+
+th{
+    background-color: aqua;
+}
